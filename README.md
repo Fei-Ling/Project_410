@@ -15,7 +15,9 @@ Two methods are developed to search for the concept of the corresponding entity.
 ## Usage
 1. The packages required for running the code are listed in the "required_package.txt ", make sure to install the package before running the code. 
 2. Before running the code, make sure the files in the "required_file.txt" have been put in the Project directory
+
 For dictionary look up method method:
+
 3. Select entity from "List of entity.txt" to search for the corresponding concept.
 4. To run the "dictionary look up" method, under the Project folder, run the following command in Terminal, and follow the instruction in API, the result would be returned in terminal
 ```
