@@ -10,9 +10,9 @@ This repository contains the implementation of two methods for biomedical concep
 
 
 ## Implementation
-Two methods are developed to search for the concept of the corresponding entity. The first method is dictionary look up. The second is pair-wise learning to rank. For first method, four dictionaries have been built from the raw data to search for concept of entity. In this method, corresponding concept would be returned based on the dictionary look up. For the second method, we used pair-wise learning to ranking method. We firstly collect the corpus from raw data sets and express the text features by using bag-of-words. All the words from the source data sets were put together to get the corpus. After this, we got 264854 feature dimensions, we used "TruncatedSVD" package from SKlearn to reduce the dimension for our feature vectors. Then, we started to train our model, we simutaneously trained three models with 25, 100, 1000 sampled negative instances. We got the model from 25 sampled nagetive instance in around 50 hours. Due to time limit, we did not get the model from 100, 1000 sampled nagative instance. 
-## Usage
+Two methods are developed to search for the concept of the corresponding entity. The first method is dictionary look up. The second is pair-wise learning to rank. For first method, four dictionaries have been built from the raw data to search for concept of entity. In this method, corresponding concept would be returned based on the dictionary look up. For the second method, we used pair-wise learning to ranking method. We firstly collect the corpus from raw data sets and express the text features by using bag-of-words. All the words from the source data sets were put together to get the corpus. After this, we got 264854 feature dimensions, we used "TruncatedSVD" package from SKlearn to reduce the dimension for our feature vectors. Then, we trained our model using CVXPY package, we simutaneously trained three models with 25, 100, 1000 negative sampled instances. We got the model from 25 nagetive sampled instances in around 50 hours. Due to time limit, we did not get the model from 100, 1000 nagative sampled instances. We will continue this project in the future for research and get more accurate model. 
 
+## Usage
 1. The packages required for running the code are listed in the "required_package.txt ", make sure to install the package before running the code. 
 2. Before running the code, make sure the files in the "required_file.txt" have been put in the Project directory
 For dictionary look up method method:
@@ -23,6 +23,7 @@ python Dictionary.py
 ```
 
 For pair-wise learning to rank method:
+
 3. open the pair_wise_learning2rank.py file with a text editor, scroll down to the bottom of the file, uncomment the funtion that you want to run. There are detailed explanation above each function. It is worth pointing out that "get_entire_corpus_counts()" function returns the all data records as TF-IDF vector in our corpus; "dense()" function returns the feature vectors for all the data records after dimension reduction; "optimization()" function returns the trained model.
 4. In the working directory, run the following command in the terminal
 ```
@@ -31,6 +32,6 @@ python pair_wise_learning2rank.py
 
 
 ## Contributing
-All the team member contributed equallu for the project.
+All the team members contributed equallu for the project.
 
 
