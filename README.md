@@ -24,6 +24,8 @@ For dictionary look up method method:
 python Dictionary.py
 ```
 
+5. When running Dictionary.py, the default function is API() funtion, you can also open the Dictionary.py file and scroll down to the bottom of the file and uncomment other funtions to get the precision, recall or F1 for all the data sets.
+
 For pair-wise learning to rank method:
 
 3. open the pair_wise_learning2rank.py file with a text editor, scroll down to the bottom of the file, uncomment the funtion that you want to run. There are detailed explanation above each function. It is worth pointing out that "get_entire_corpus_counts()" function returns the all data records as TF-IDF vector in our corpus; "dense()" function returns the feature vectors for all the data records after dimension reduction; "optimization()" function returns the trained model.
