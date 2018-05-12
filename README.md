@@ -10,7 +10,7 @@ This repository contains the implementation of two methods for biomedical concep
 
 
 ## Implementation
-Two methods are developed to search for the concept of the corresponding entity. The first method is dictionary look up. The second is pair-wise learning to rank. For first method, four dictionaries have been built from the raw data to search for concept of entity. In this method, corresponding concept would be returned based on the dictionary look up. For the second method, we used pair-wise learning to ranking method. We firstly collect the corpus from raw data sets and express the text features by using bag-of-words. All the words from the source data sets were put together to get the corpus. After this, we got 264854 feature dimensions, we used "TruncatedSVD" package from SKlearn to reduce the dimension for our feature vectors. Then, we trained our model using CVXPY package, we simutaneously trained three models with 25, 100, 1000 negative sampled instances. We got the model from 25 nagetive sampled instances in around 50 hours. Due to time limit, we did not get the model from 100, 1000 nagative sampled instances. We will continue this project in the future for research and get more accurate model. 
+Two methods are developed to search for the concept of the corresponding entity. The first method is dictionary look up. The second is pair-wise learning to rank. For first method, four dictionaries have been built from the raw data to search for concept of entity. In this method, corresponding concept would be returned based on the dictionary look up. For the second method, we used pair-wise learning to ranking method. We firstly collect the corpus from raw data sets and express the text features by using bag-of-words. All the words from the source data sets were put together to get the corpus. After this, we got 264854 feature dimensions, we used "TruncatedSVD" package from SKlearn to reduce the dimension for our feature vectors. Then, we trained our model using CVXPY package, we simutaneously trained three models with 25, 100, 1000 negative sampled instances. We got the model from 25 nagetive sampled instances in around 50 hours.  
 
 ## Usage
 1. The packages required for running the code are listed in the "required_package.txt ", make sure to install the package before running the code. 
@@ -24,7 +24,7 @@ For dictionary look up method method:
 python Dictionary.py
 ```
 
-5. When running Dictionary.py, the default function is API() funtion, you can also open the Dictionary.py file and scroll down to the bottom of the file and uncomment other funtions to get the precision, recall or F1 for all the data sets.
+5. When running Dictionary.py, the default function is API() funtion, you can also open the Dictionary.py file and scroll down to the bottom of the file and uncomment other funtions and run the above commend line to get the precision, recall or F1 for all the data sets.
 
 For pair-wise learning to rank method:
 
