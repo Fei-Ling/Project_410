@@ -14,7 +14,7 @@ Two methods are developed to search for the concept of the corresponding entity.
 
 ## Usage
 1. The packages required for running the code are listed in the "required_package.txt ", make sure to install the package before running the code. 
-2. Before running the code, make sure the files in the "required_file.txt" have been put in the Project directory
+2. Before running the code, make sure the files in the "required_file.txt" have been put in the Project directory. All the large files that cannot be pushed onto github have been uploaded in the google drive. MAKE SURE to follow the link in "required_file.txt" to access the large files and download them to the working directory before running the code. The large files are the intermediate result from the code, two of them requires almost one week to run. Therefore, we save them into txt file in order for your testing the code.
 
 For dictionary look up method method:
 
