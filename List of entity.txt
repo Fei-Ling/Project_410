@@ -1,0 +1,1553 @@
+naloxone
+lidocaine
+fasciculation
+physostigmine
+lithium
+fusidic acid
+nausea
+cocaine
+sulpiride
+dystonia
+myasthenia gravis
+magnesium
+acetylcholine
+paralysis
+chloroacetaldehyde
+pain
+clotiazepam
+benzodiazepines
+hypertension
+ketoconazole
+captopril
+labetalol
+carbamazepine
+propylene glycol
+seizures
+sodium
+tachycardia
+epinephrine
+death
+choriocarcinoma
+etoposide
+methotrexate
+embolism
+arthritis
+dapsone
+leprosy
+glutathione
+infection
+metoprolol
+coronary artery disease
+diltiazem
+sparteine
+triazolam
+morphine
+haloperidol
+pentazocine
+amiodarone
+indomethacin
+prostaglandins
+flunitrazepam
+dizziness
+timolol
+cardiomegaly
+infarction
+calcium
+diabetes mellitus
+isoniazid
+dothiepin
+diazepam
+propranolol
+aspirin
+fanft
+hypotension
+nitroglycerin
+acriflavine
+triamterene
+creatine
+adenosine
+streptomycin
+glomerulonephritis
+rifampin
+puromycin aminonucleoside
+oxygen
+proteinuria
+thiobarbituric acid
+clomipramine
+angioedema
+pulmonary edema
+coniine
+arthrogryposis
+nicotine
+dopamine
+acetaminophen
+steroids
+tetrandrine
+gemcitabine
+vinorelbine
+neutropenia
+warfarin
+vitamin d
+vitamin k
+bipolar disorder
+caffeine
+mitral valve prolapse
+fentanyl
+myocardial infarction
+gr 55562
+ticlopidine
+jaundice
+nephrotic syndrome
+aldosterone
+calcitonin gene-related peptide
+serotonin
+coronary aneurysm
+aneurysm
+dysphonia
+acitretin
+hyperalgesia
+gabapentin
+bumetanide
+tetany
+calcium gluconate
+hypocalcemia
+sirolimus
+creatinine
+cyclophosphamide
+cystitis
+atropine
+4-damp
+pirenzepine
+methoctramine
+carbachol
+oxazepam
+dementia
+temazepam
+disulfiram
+ataxia
+hoarseness
+thrombosis
+heparin
+thrombocytopenia
+retinal vein occlusion
+verapamil
+histamine
+atherosclerosis
+heart failure
+3-methyladenine
+confusion
+cannabis
+argatroban
+tuberculosis
+hepatitis e
+bilirubin
+leukemic infiltration
+neurotensin
+nitroprusside
+bradycardia
+pimozide
+norepinephrine
+spasm
+imipramine
+ipratropium
+theophylline
+prazosin
+necrosis
+fluoxetine
+stroke
+cerebral infarction
+glyburide
+hemorrhage
+hypovolemia
+isoflurane
+diphenhydramine
+sinoatrial block
+metoclopramide
+busulfan
+halothane
+saralasin
+hyperthyroidism
+carbimazole
+erythema multiforme
+ampicillin
+methylprednisolone
+anaphylaxis
+atracurium
+phenacetin
+mitoxantrone
+arginine vasopressin
+dehydration
+meningitis
+potassium
+mepivacaine
+atrial fibrillation
+tacrolimus
+amnesia
+venous thromboembolism
+apomorphine
+urinary incontinence
+lithium carbonate
+lisinopril
+tizanidine
+kidney diseases
+bd1008
+torsades de pointes
+terfenadine
+vincristine
+prochlorperazine
+headache
+dexamethasone
+cyproterone acetate
+acromegaly
+hypertrophy
+anemia
+testosterone
+quinine
+rilmenidine
+ceftriaxone
+raloxifene hydrochloride
+amenorrhea
+cholesterol
+radiculopathy
+bupivacaine
+prednisolone
+clonidine
+terbutaline
+myocarditis
+clozapine
+schizophrenia
+levetiracetam
+thalidomide
+priapism
+vitamin e
+diplopia
+glycine
+phenylephrine
+ephedrine
+obsessive-compulsive disorder
+calcium chloride
+betaxolol
+ifosfamide
+cisplatin
+mefloquine
+malaria
+mazindol
+pentoxifylline
+dipyridamole
+ribavirin
+corticosterone
+catalepsy
+alfentanil
+cardiotoxicity
+ventricular fibrillation
+deferoxamine
+hearing loss
+flurbiprofen
+mipafox
+phenylpropanolamine
+psoriasis
+azathioprine
+cholestasis
+isoproterenol
+sodium chloride
+cimetidine
+diethylstilbestrol
+carcinoma
+carbon tetrachloride
+amiloride
+alprazolam
+agoraphobia
+panic disorder
+sodium bicarbonate
+papaverine
+phentolamine
+octreotide
+gallstones
+levodopa
+aminoglycosides
+amikacin
+endophthalmitis
+fluorescein
+halothane hepatitis
+prilocaine
+stevens-johnson syndrome
+ursodeoxycholic acid
+mood disorders
+hemolysis
+tamoxifen
+bromocriptine
+domperidone
+ketamine
+capsaicin
+cyclosporine
+anuria
+losartan
+angiotensin ii
+ih636 grape seed proanthocyanidin extract
+citalopram
+myoclonus
+hematoma
+estradiol
+silver
+delirium
+cluster headache
+pilocarpine
+azithromycin
+hyperammonemia
+nitric oxide
+methylphenidate
+iopamidol
+maltolyl p-coumarate
+levofloxacin
+lamivudine
+tyrosine
+acute pain
+mycophenolate mofetil
+methamphetamine
+myelitis
+pergolide
+alendronate
+doxorubicin
+oxycodone
+chronic pain
+modafinil
+asenapine
+heart block
+pentobarbital
+xanthine
+allopurinol
+risperidone
+simvastatin
+thyroxine
+enalapril
+apnea
+succinylcholine
+hallucinations
+hepatitis b
+selegiline
+amphetamine
+trimipramine
+reserpine
+ranitidine
+acetazolamide
+nephrolithiasis
+scabies
+lindane
+myotonia congenita
+poisoning
+8-aminoquinoline
+wr242511
+hemoglobinuria
+myoglobinuria
+kanamycin
+sumatriptan
+tremor
+docetaxel
+um-272
+ciprofloxacin
+abdominal pain
+danazol
+subarachnoid hemorrhage
+gamma-aminobutyric acid
+procainamide
+bradykinin
+2-acetylaminofluorene
+trihexyphenidyl
+leucovorin
+kainic acid
+choline
+dobutamine
+ischemia
+myocardial ischemia
+chest pain
+rhabdomyolysis
+paclitaxel
+apraclonidine
+entropion
+carmofur
+mexiletine
+calcitonin
+molindone
+sevoflurane
+apamin
+hip-his-leu
+tobramycin
+desipramine
+paramethasone
+urticaria
+valproic acid
+pancreatitis
+metronidazole
+thymidine
+amphotericin b
+carbon dioxide
+phenytoin
+fibrosis
+propofol
+clioquinol
+optic atrophy
+tranexamic acid
+sucrose
+anthracyclines
+sulfonamides
+penicillins
+neoplasms
+synovitis
+alkylating agents
+methyldopa
+alopecia
+pirarubicin
+adriamycinol
+mesothelioma
+carboplatin
+glioblastoma
+glaucoma
+amsacrine
+ci-921
+ximelagatran
+idraparinux
+cefonicid
+pyridoxine
+niacinamide
+pyridoxal
+kynurenine
+nra0160
+troleandomycin
+pruritus
+lovastatin
+sulfasalazine
+coma
+chlormethiazole
+nitrazepam
+postoperative nausea and vomiting
+muscle weakness
+fanconi syndrome
+thioperamide
+amifostine
+mannitol
+renal insufficiency
+ro4368554
+piroxicam
+fucoidan
+epilepsy
+status epilepticus
+salvianolic acid a
+telithromycin
+alanine
+spironolactone
+hyperkalemia
+nimodipine
+nifedipine
+leukemia
+sulindac
+ritodrine
+prolactinoma
+midazolam
+ly274614
+catecholamines
+hyperprolactinemia
+ritonavir
+phenobarbital
+hydrocortisone acetate
+fistula
+anencephaly
+amantadine
+amines
+normetanephrine
+methylergonovine
+aminophylline
+hyperhidrosis
+respiratory insufficiency
+rizatriptan
+nelarabine
+dermatitis
+lymphadenitis
+bupropion
+indocyanine green
+hoe 140
+vigabatrin
+omeprazole
+lethargy
+opportunistic infections
+didanosine
+topiramate
+dicyclomine
+picloxydine
+bromperidol
+curcumin
+pyrrolidine dithiocarbamate
+propylthiouracil
+pericarditis
+methyl beta-carboline-3-carboxylate
+beta-ccm
+erectile dysfunction
+testosterone heptylate
+glycopyrrolate
+flestolol
+nitrendipine
+tinnitus
+vertigo
+perhexiline maleate
+alpha-methyltyrosine
+fr 139317
+ginsenoside rg1
+gum arabic
+zonisamide
+agranulocytosis
+lithium carbonate
+phenobarbital
+movement disorders
+ammonia
+valproic acid
+haloperidol
+isoproterenol
+hydroxyproline
+hypertrophy
+retinyl acetate
+ketanserin
+chlordiazepoxide
+alfentanil
+muscle rigidity
+serotonin
+fentanyl
+ketamine
+menorrhagia
+cyclophosphamide
+mesna
+flumazenil
+nausea
+adenoma
+thromboembolism
+heparin
+liver failure
+schizophrenia
+methamphetamine
+bupropion
+urethane
+dexmedetomidine
+lamotrigine
+levodopa
+parkinson disease
+amnesia
+propofol
+hepatitis b
+rubella
+doxorubicin
+amphotericin b
+didanosine
+phenytoin
+seizures
+tobramycin
+creatinine
+sm-5887
+pilocarpine
+daunorubicin
+cardiotoxicity
+thrombosis
+isoniazid
+iopentol
+ventricular fibrillation
+venous thrombosis
+coronary stenosis
+coronary occlusion
+thallium
+dipyridamole
+furosemide
+renal insufficiency
+lithium
+focal nodular hyperplasia
+rupture
+methotrexate
+mucositis
+loreclezole
+bicuculline
+hyperthyroidism
+sepsis
+dementia
+mannitol
+glioma
+meningioma
+lidocaine
+succinylcholine
+morphine
+thiopental
+fasciculation
+myalgia
+levofloxacin
+diarrhea
+headache
+etoricoxib
+aspirin
+hypertension
+captopril
+clonidine
+hexamethonium
+corticosterone
+delusional parasitosis
+neuroleptic malignant syndrome
+paroxetine
+fever
+creatine
+bromocriptine
+status epilepticus
+cyclooxygenase inhibitors
+myocardial infarction
+enalapril
+pemoline
+benzodiazepines
+hyperammonemia
+ammonium acetate
+acetylcholine
+calcium
+verapamil
+contrast media
+iopromide
+sodium
+caffeine
+ethambutol
+valdecoxib
+ephedrine
+erectile dysfunction
+apomorphine
+dopamine
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+a-86929
+bupivacaine
+carbamazepine
+naloxone
+bradycardia
+amn082
+nimodipine
+hypotension
+flavonoids
+triglycerides
+atrioventricular block
+mangiferin
+remifentanil
+myoclonus
+apnea
+daidzein
+choline
+azithromycin
+dexamethasone
+macrolides
+warfarin
+migraine with aura
+nitric oxide
+migraine without aura
+stroke
+cocaine
+tamoxifen
+fluvoxamine
+ranitidine
+histamine
+zollinger-ellison syndrome
+cimetidine
+reye syndrome
+hypokalemia
+terbutaline
+oxprenolol
+methyldopa
+yohimbine
+tacrolimus
+edema
+puromycin aminonucleoside
+nephrotic syndrome
+amphetamine
+iron
+coumarin
+leukocytoclastic vasculitis
+spinal cord ischemia
+saxitoxin
+benzoylecgonine
+pain
+proteinuria
+estrogens
+pravastatin
+hypothyroidism
+lovastatin
+pancytopenia
+trihexyphenidyl
+cyclosporine
+nicotine
+spiperone
+hydrocortisone
+norepinephrine
+suprofen
+uric acid
+deoxycholic acid
+ethinyl estradiol
+ouabain
+heart failure
+digitalis glycosides
+oxygen
+coronary artery disease
+cisapride
+syncope
+paclitaxel
+carboplatin
+netilmicin
+prostaglandins
+ibuprofen
+angioedema
+abdominal pain
+ascites
+pheochromocytoma
+nicardipine
+amisulpride
+catecholamines
+sulindac
+potassium
+propranolol
+chloroquine
+myositis
+polymyositis
+ribavirin
+cidofovir
+digeorge syndrome
+amiodarone
+catalepsy
+vancomycin
+desipramine
+anemia
+viramidine
+calcium carbonate
+hypercalcemia
+pamidronate
+amines
+azelastine
+chlorpheniramine
+paralysis
+respiratory insufficiency
+acidosis
+tachykinins
+amiloride
+respiratory paralysis
+thiosemicarbazide
+prostaglandin d2
+acetic acid
+atenolol
+coenzyme q10
+cisplatin
+metformin
+delirium
+mental disorders
+sorafenib
+nicorandil
+ciprofloxacin
+fluoroquinolones
+acquired immunodeficiency syndrome
+zidovudine
+ritanserin
+autoimmune diseases
+arteritis
+fenoldopam
+theophylline
+topiramate
+calcium phosphate
+spironolactone
+kainic acid
+epilepsy
+risperidone
+hyperprolactinemia
+cabergoline
+cholestasis
+jaundice
+vigabatrin
+pneumonia
+methylatropine
+folic acid
+stillbirth
+irritable bowel syndrome
+constipation
+clarithromycin
+erythromycin
+dehydration
+diazepam
+tetany
+glutamic acid
+digoxigenin
+cresyl violet
+misoprostol
+indomethacin
+kanamycin
+aminoglycosides
+chorea
+coma
+purpura
+vasculitis
+turner syndrome
+propylthiouracil
+asphyxia
+ventricular septal rupture
+glomerulonephritis
+nephrosis
+etoposide
+digoxin
+albuminuria
+tolazamide
+thiamine
+myocardial ischemia
+epinephrine
+ischemia
+thyroxine
+reticulocytosis
+prazosin
+diabetes mellitus
+estradiol
+heart block
+levobupivacaine
+22-oxacalcitriol
+calcitriol
+vitamin d
+leukopenia
+cerebral hemorrhage
+phenylpropanolamine
+tremor
+calcium chloride
+neuroblastoma
+mydriasis
+penicillamine
+phenothiazines
+muscimol
+baclofen
+mk-212
+kearns-sayre syndrome
+prednisone
+crocin
+carotenoids
+dermatitis
+rosacea
+tacrine
+disulfiram
+lamivudine
+melatonin
+barbiturate
+hallucinations
+tramadol
+synovitis
+glucose
+nifedipine
+ifosfamide
+hematuria
+coronary thrombosis
+necrosis
+nimesulide
+urticaria
+diltiazem
+thrombocytopenia
+nad
+cibenzoline
+mexiletine
+hemorrhage
+nocturia
+atrial fibrillation
+gastric lymphoma
+thalidomide
+2r,4r-apdc
+isoflurane
+dipyrone
+alanine
+halothane hepatitis
+dobutamine
+chest pain
+lead
+malondialdehyde
+vitamin e
+fenfluramine
+bicuspid aortic valve
+platinum
+granulosa cell tumor of the ovary
+adenomyosis
+fluoxetine
+steroids
+midazolam
+wilms tumor
+testosterone
+fluorouracil
+anuria
+timolol
+amikacin
+venous thromboembolism
+levonorgestrel
+lindane
+sleep deprivation
+iodixanol
+capsaicin
+chlorpropamide
+azathioprine
+metoprolol
+cefotetan
+hemolysis
+cephalosporins
+serotonin syndrome
+hypoventilation
+rhabdomyolysis
+atropine
+neutropenia
+progesterone
+sc-48334
+cb 3717
+ethopropazine
+benztropine
+alpha-tocopherol
+glutathione
+cystitis
+reserpine
+methylprednisolone
+lometrexol
+anastrozole
+aminoguanidine
+phenylephrine
+carteolol
+thrombophlebitis
+cerebral palsy
+sm 21
+methimazole
+bilirubin
+milrinone
+halothane
+enflurane
+diplopia
+buspirone
+nitroprusside
+glaucoma
+methadone
+heroin
+buprenorphine
+sirolimus
+mycophenolate mofetil
+prednisolone
+ketoprofen
+arthralgia
+vincristine
+flushing
+amlodipine
+acetaminophen
+periodic acid
+penicillin g
+tranexamic acid
+pyrazinamide
+adenomatous polyps
+hearing loss
+glioblastoma
+brain edema
+methylphenidate
+metoclopramide
+ocular hypertension
+dextromethorphan
+polyuria
+trazodone
+quinidine phenylethylbarbiturate
+quinidine
+flank pain
+hemolytic-uremic syndrome
+quinine
+infection
+cholesteryl hemisuccinate
+telmisartan
+oxacillin
+naloxazone
+dexrazoxane
+anthracyclines
+aniracetam
+piracetam
+bn 52021
+uridine
+visceral pain
+acrolein
+hyperalgesia
+neuralgia
+fluphenazine
+sch 23390
+etodolac
+myocarditis
+erythema nodosum
+angiotensin ii
+benserazide
+methoxamine
+tic disorders
+long qt syndrome
+nephritis
+low back pain
+inflammation
+edaravone
+streptomycin
+glycopyrrolate
+adenosine
+bipolar disorder
+magnesium
+psoriasis
+glycine
+5,7-dichlorokynurenic acid
+5,7-dcka
+cholesterol
+hepatic veno-occlusive disease
+fibrosis
+hypaque 76
+dystonia
+medetomidine
+tuberculosis
+rifampin
+chlorthalidone
+aldosterone
+oxytocin
+uveitis
+pj34
+fluconazole
+tropicamide
+acetazolamide
+confusion
+sertraline
+pentamidine
+echothiophate iodide
+androgens
+tiazofurin
+phentolamine
+iridocyclitis
+cataract
+keratoconjunctivitis
+water intoxication
+famotidine
+delirium
+indomethacin
+sodium
+tacrolimus
+methamphetamine
+depressive disorder
+cyclophosphamide
+pain
+edema
+clopidogrel
+bisphenol a
+cardiotoxicity
+cardiovascular diseases
+isoproterenol
+captopril
+lenalidomide
+thalidomide
+ifosfamide
+mesna
+levodopa
+proteinuria
+fibrosis
+amyloidosis
+acute kidney injury
+confusion
+ethambutol
+epinephrine
+levobupivacaine
+heparin
+thrombocytopenia
+mitral valve prolapse
+zolmitriptan
+crocin
+diazinon
+cholesterol
+gemcitabine
+creatinine
+hypertension
+hyponatremia
+doxorubicin
+necrosis
+seizures
+apigenin
+morphine
+memantine
+sodium chloride
+diltiazem
+blood urea nitrogen
+methotrexate
+tranexamic acid
+anemia
+bupivacaine
+propofol
+ketamine
+nausea
+creatine
+fluvastatin
+fluconazole
+agranulocytosis
+etomidate
+fentanyl
+myoclonus
+phosphorus
+poisoning
+syncope
+bradycardia
+dexamethasone
+iron
+hydrogen peroxide
+weight loss
+ketoconazole
+pilsicainide
+lomustine
+neutropenia
+nelarabine
+tumor lysis syndrome
+bacterial infections
+gadolinium
+hyperalgesia
+capsaicin
+glaucoma
+ocular hypertension
+sodium 4-phenylbutyrate
+ginsenosides
+acetic acid
+ginsenoside re
+dexmedetomidine
+hypotension
+hydroxytyrosol
+amiodarone
+thyroxine
+steroids
+iodine
+argatroban
+epistaxis
+dehydroepiandrosterone
+amphetamine
+haloperidol
+apomorphine
+terfenadine
+s-53482
+s-23121
+cisplatin
+mannitol
+metformin
+epilepsy
+pentylenetetrazole
+metronidazole
+aconitine
+neuroleptic malignant syndrome
+tetrabenazine
+metoprolol
+terbinafine
+bisoprolol
+testosterone
+flutamide
+garcinielliptone fc
+skin diseases
+vancomycin
+rhabdomyolysis
+simvastatin
+telaprevir
+multiple myeloma
+sirolimus
+inflammation
+fluocinolone acetonide
+cataract
+vasculitis
+rocuronium
+succinylcholine
+myalgia
+lithium
+amlodipine
+clarithromycin
+apnea
+butyrylcholinesterase deficiency
+butyrylthiocholine
+hydrogen
+artesunate
+betaine
+bipolar disorder
+paresthesia
+curcumin
+maleate
+oxygen
+ozone
+caffeine
+angiotensin ii
+tyrosine
+1,3-butadiene
+metolachlor
+arsenic
+piperazine
+vitamin e
+warfarin
+isradipine
+headache
+tremor
+anxiety disorders
+heart failure
+cobalt
+coronary disease
+coronary artery disease
+catecholamines
+carbetocin
+dobutamine
+chest pain
+cocaine
+atropine
+melphalan
+hypoalbuminemia
+crack cocaine
+levetiracetam
+lethargy
+hypovolemia
+stroke
+verapamil
+clonidine
+codeine
+pentazocine
+propranolol
+hyperplasia
+tobramycin
+pneumonia
+azotemia
+subarachnoid hemorrhage
+infarction
+hypoglycemia
+idiopathic orthostatic hypotension
+diazepam
+cephalothin
+hypokalemia
+aldosterone
+phenytoin
+paraplegia
+carbachol
+guanethidine
+chlorpromazine
+fatty liver
+tetracycline
+oleic acid
+vincristine
+progesterone
+estradiol
+thalassemia
+renal insufficiency
+bromocriptine
+hyperprolactinemia
+ethacrynic acid
+gamma-aminobutyric acid
+abecarnil
+myocardial infarction
+spasm
+phenylalanine
+digoxin
+atrial fibrillation
+hemolysis
+leprosy
+zidovudine
+fluoxetine
+gemfibrozil
+myositis
+trimethaphan
+status epilepticus
+calcium
+galactosamine
+serotonin
+encephalitis
+misoprostol
+ischemia
+glutathione
+diphenhydramine
+cimetidine
+histamine
+cromakalim
+nitroglycerin
+mefenamic acid
+hypercalcemia
+methyldopa
+danazol
+chlorhexidine diphosphanilate
+infection
+chlorhexidine phosphanilate
+busulfan
+clonazepam
+lindane
+dopamine
+propylthiouracil
+hyperthyroidism
+nifedipine
+atrial flutter
+labetalol
+halothane
+fluorescein
+acc-9653
+pertussis vaccine
+cyproheptadine
+adenosine
+urea
+isotretinoin
+papilledema
+procaterol
+terbutaline
+hypertrophy
+ornithine
+oxitropium bromide
+oxitropium
+theophylline
+valproic acid
+naloxone
+alfentanil
+norepinephrine
+pilocarpine
+sodium salicylate
+etoposide
+glioma
+jaundice
+cholestasis
+1,4-dihydropyridine
+calcium channel blockers
+dihydropyridine
+nitrendipine
+nisoldipine
+nimodipine
+nephrotic syndrome
+ruthenium
+aminophylline
+hyperkalemia
+fludrocortisone
+carbamazepine
+imipramine
+neuroblastoma
+beclomethasone
+hoarseness
+prednisone
+aminoglycosides
+flurothyl
+isoniazid
+dipyridamole
+denopamine
+pentobarbital
+timolol
+fatigue
+prostaglandins
+hyperbilirubinemia
+aspirin
+lidocaine
+ventricular fibrillation
+catalepsy
+acetylcholine
+barium
+barbiturate
+phenylpropanolamine
+sclerosis
+nicotine
+p-aminophenol
+acetaminophen
+leukocytosis
+leukopenia
+flurazepam
+atenolol
+tachycardia
+progestins
+mastodynia
+azathioprine
+cyclosporine
+lymphoma
+picrotoxin
+sodium nitrite
+ascites
+albuminuria
+edrophonium
+bepridil
+potassium
+adenosine triphosphate
+dimer-x
+quinine
+blindness
+dibucaine
+cephalexin
+paclitaxel
+carboplatin
+urticaria
+lorazepam
+myocarditis
+granisetron
+hyperaldosteronism
+s-312
+flunarizine
+s-312-d
+sumatriptan
+flumazenil
+dmtu
+arginine vasopressin
+phenylephrine
+hematoma
+piroxicam
+cytomegalovirus infections
+atherosclerosis
+citalopram
+pulmonary edema
+fever
+shock
+clentiazem
+myocardial ischemia
+ulcer
+hypoparathyroidism
+pamidronate
+diethylstilbestrol
+nitric oxide
+cystitis
+cd-832
+puromycin aminonucleoside
+nefiracetam
+lamivudine
+hepatitis b
+venous thromboembolism
+torsades de pointes
+ibuprofen
+postoperative nausea and vomiting
+albuterol
+asthma
+polyuria
+coronary vasospasm
+methylphenidate
+helodermin
+contrast media
+dyspnea
+nociceptin
+nocistatin
+meloxicam
+remoxipride
+hoechst 33342
+catechol
+benzene
+fenfluramine
+amphetamines
+amphotericin b
+sulfadiazine
+dizziness
+dronedarone
+hand-foot syndrome
+diarrhea
+platinum
+olanzapine
+isotretinoin embryopathy
+vitamin a
+methoxamine
+angiotensin-converting enzyme inhibitors
+lisinopril
+cocaethylene
+veralipride
+ethanol
+sotalol
+azimilide
+copper
+kanamycin
+dysmenorrhea
+low back pain
+temocapril
+nephrosis
+leukemia
+hemolytic-uremic syndrome
+indinavir
+nicergoline
+arthralgia
+eosinophilia
+carvedilol
+tiaprofenic acid
+constipation
+myotonia congenita
+myotonia
+hyperventilation
+retinoblastoma
+rupture
+diabetes mellitus
+aluminum chloride
+glycopyrrolate
+thrombophlebitis
+vinorelbine
+vigabatrin
+dermatitis
+rosacea
+eczema
+hepatomegaly
+niacin
+flushing
+droperidol
+diabetes insipidus
+polydipsia
+ribavirin
+4-hydroxy-2-nonenal
+ventricular dysfunction
+nifekalant hydrochloride
+nifekalant
+trazodone
+glucose
+clozapine
+schizophrenia
+insulin resistance
+evans blue
+hemorrhage
+erythema
+angioedema
+amisulpride
+calcium gluconate
+dementia
+chronic disease
+drug-induced liver injury
+erdosteine
+atrophy
+domperidone
+restless legs syndrome
+mirtazapine
+fbal
+monoher
+long qt syndrome
+methadone
+hexamethonium
+pergolide
+minocycline
+polyarteritis nodosa
+eslicarbazepine acetate
+chloroacetaldehyde
+galantamine
+weight gain
+risperidone
+hydroxychloroquine
+atrioventricular block
+epirubicin
+bilirubin
+penicillamine
+zinc acetate
+succimer
+lead
+panic disorder
+piperacillin
+ammonia
+dysarthria
+vocal cord paralysis
+paralysis
+ropivacaine
+melatonin
+carmustine
+malondialdehyde
+inositol
+glomerulonephritis
+retinal vein occlusion
+autoimmune diseases
+glimepiride
+losartan
+topotecan
+obesity
+carbimazole
+heroin
+unconsciousness
+aphasia
+ouabain
+thiobarbituric acid
+flecainide
+paroxetine
+coronary stenosis
+hypothermia
+phenobarbital
+metallothionein
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+cnsb002
+thrombosis
+botox
+trimethoprim
+hemoglobinuria
+temsirolimus
+osteoporosis
+alendronate
+musculoskeletal pain
+daptomycin
+methicillin
+oxacillin
+nafcillin
+bacteremia
+meningitis
+galactose
