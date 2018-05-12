@@ -254,13 +254,18 @@ def API():
 	new_dic = newDic()
 	print ("System setup finished!")
 
-	key = input("Please enter an entity name: ")
-	value = new_dic.get(key, "NA")
-	if value != "NA":
-		print ("This is the corresponding MeSH concept: ")
-		print (value)
-	else:
-		print ("Sorry, cannot find the entity")
+	go_on = ""
+	while (go_on != "exit"):
+		key = input("Please enter an entity name: ")
+		value = new_dic.get(key, "NA")
+		if value != "NA":
+			print ("This is the corresponding MeSH concept: ")
+			print (value)
+		else:
+			print ("Sorry, cannot find the entity")
+		go_on = input ("Continue or Exit: ")
+
+	
 ####
 
 
